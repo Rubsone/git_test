@@ -1,0 +1,1 @@
+¡Hola! Este es otro archivo de prueba, esta vez es un archivo .txt sin texto alguno, es solamente para llevar rastro de más de un archivo en mi proyecto de GitHub.
